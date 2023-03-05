@@ -1,2 +1,3 @@
 # domain_finder
-Script to bruteforce through domain names
+This script tries all possible domains with the givven parameters and saves the free ones in a file
+
