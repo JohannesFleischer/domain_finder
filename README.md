@@ -1,7 +1,7 @@
 # domain_finder
 
 ## DISCLAIMER:
-This script is for teaching purposes only.
+This script is for educational purposes only.
 Execution is most likely against the terms of use of whois and is therefore highly discouraged by the authors.
 No liability is assumed.
 
